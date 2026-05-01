@@ -397,7 +397,7 @@ nav {
 .contact-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 25px rgba(0,0,0,0.05);
-    border-color: #0284c7; /* لون السماء المحبب لديك */
+    border-color: #0284c7;
 }
 
 .contact-icon {
@@ -425,7 +425,7 @@ nav {
     color: #0f172a;
     font-weight: 600;
     text-decoration: none;
-    word-break: break-all; /* لمنع تداخل الإيميل الطويل في الشاشات الصغيرة */
+    word-break: break-all; 
 }
 
 .contact-text a:hover {
